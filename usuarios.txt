@@ -1,2 +1,1 @@
-ADMINISTRADOR DO SISTEMA|admin|admin|0
-AMANDA AZEVEDO MARTINS|amanda.azevedo|nioenmenl1|1
+
