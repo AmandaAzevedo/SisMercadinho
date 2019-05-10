@@ -1,5 +1,5 @@
 package sisMercadinhoV_Final;
-// DEIXAR PARA GRAVAR TUDO APENAS NO FINAL, PARA NÃO FICAR UM CÓDIGO MUITO SUJO
+
 
 import java.io.IOException;
 import java.text.DateFormat;
